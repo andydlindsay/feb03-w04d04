@@ -7,6 +7,16 @@
 - [ ] CSS Preprocessors
 - [ ] Intro to Sass
 
+### Responsive Design
+* Auto adjust depending on the screen size
+* 
+
+### Ems and Rems
+* em - relative size to the font size of the parent
+* rem - root em relative size to the font size of the root element
+
+m.youtube.com
+m.wikipedia.org
 
 
 
