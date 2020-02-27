@@ -1,0 +1,43 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 16px;
+} 
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  height: 50px;
+  background-color: darkgoldenrod;
+}
+
+footer {
+  height: 30px;
+  background-color: rebeccapurple;
+}
+
+section {
+  border: 2px solid black;
+  font-size: 25px;
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-between;
+  align-items: stretch;
+}
+
+section div {
+  height: 50px;
+  width: 3rem;
+  margin: 10px;
+  line-height: 50px;
+  min-width: 2.5rem;
+  max-width: 60px;
+  background-color: chartreuse;
+  text-align: center;
+  display: inline-block;
+}
